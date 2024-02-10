@@ -17,7 +17,10 @@ final project for  software engineering course (Duration 2 months)
 
 ## Team Members
 
-- [@Abhijit rao](https://github.com/Abhijit7979) - [@Varshini](https://github.com/varshinivaddepalli) - [@Gagan](https://github.com/gaganneeli) - [@Ashritha](https://github.com/sriashritha0403)
+- [@Abhijit rao](https://github.com/Abhijit7979)
+- [@Varshini](https://github.com/varshinivaddepalli)
+- [@Gagan](https://github.com/gaganneeli)
+- [@Ashritha](https://github.com/sriashritha0403)
 
 
 
