@@ -13,7 +13,9 @@ final project for  software engineering course (Duration 2 months)
 
 - log-in page 
 
+## Roadmap
 
+- setup IDE for android app development
 
 ## Team Members
 
@@ -25,9 +27,7 @@ final project for  software engineering course (Duration 2 months)
 
 
 
-## Roadmap
 
-- setup IDE for android app development
 
 
 
