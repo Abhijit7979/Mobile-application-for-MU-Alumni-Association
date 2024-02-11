@@ -18,6 +18,7 @@ final project for  software engineering course (Duration 2 months)
 ## Roadmap
 
 - setup IDE for android app development
+- Programming language - Kotlin
 
 ## Team Members
 
