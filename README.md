@@ -24,7 +24,7 @@ final project for  software engineering course (Duration 2 months)
 
 - [@Abhijit rao](https://github.com/Abhijit7979)
 - [@Varshini](https://github.com/varshinivaddepalli)
-- [@Gagan](https://github.com/gaganneeli)
+- [@Gagan neeli](https://github.com/gaganneeli)
 - [@Ashritha](https://github.com/sriashritha0403)
 
 
