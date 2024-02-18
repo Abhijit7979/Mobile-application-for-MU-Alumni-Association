@@ -19,6 +19,7 @@ final project for  software engineering course (Duration 2 months)
 
 - setup IDE for android app development
 - Programming language - Kotlin
+- adding firebase --> data base (login page)
 
 ## Team Members
 
